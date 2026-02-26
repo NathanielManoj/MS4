@@ -14,7 +14,7 @@ if len(files)>0:
    os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=files[0];
 
 #To do: Set the project ID, topic name and the subscription_id 
-project_id = "my-project-1528075008286"
+project_id = "project id (replaced)"
 topic_name = "election"
 
 # let the user enter the election and machine IDs
